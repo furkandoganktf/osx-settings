@@ -1,32 +1,41 @@
 Mac Apps to download
 
 # Must
+
 - Chrome
 - Dashlane
-- Spectacles
+- Zappy (alternative Lightshot)
+- Magnet (alternative Spectacles)
 - Alfred
-- Zappy (alternative Lightshot) 
 - VLC
 - There
 
 # Not Must
+
 - Notion
-- Tandem
 - Slack
-- Discord
 - Steam
 - Spotify
 - Loom
+- Zoom
+- The Unarchiver
+- Telegram
+- Discord
+- Tandem
 
 # Development
-- Sublime
+
+- VSCode
 - iTerm
-- Insomnia
-- PSequel 
+- Postman
+- Postico
 - Docker
 - Source Tree
+- Insomnia
+- PSequel
 
 # Chrome Plugins
+
 - [AdBlock](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom)
 - Dashlane
 - [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en)
